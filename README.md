@@ -1,1 +1,8 @@
 # Bases-de-datos
+
+
+En este apartado se encuentra la base de datos de nuestro proyecto:
+___________________________________________________________________________________________________________________________________
+[Base_de_Datos_Diseño.pdf](https://github.com/user-attachments/files/15595302/Base_de_Datos_Diseno.pdf)
+[Base_de_Datos_Diseño.pdf](https://github.com/user-attachments/files/15595302/Base_de_Datos_Diseno.pdf)
+___________________________________________________________________________________________________________________________________
